@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var user1 = {
     id: 1,
     name: "Alice",
