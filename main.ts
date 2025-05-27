@@ -1,3 +1,4 @@
+export { }
 // 문제은행 - 1강 원시타입
 // 문제 1. 다음 변수들의 타입을 지정해주세요
 let userName: string;

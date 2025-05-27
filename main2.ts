@@ -1,3 +1,4 @@
+export { }
 // 문제은행 3강- type, interface
 // 문제 1. 사용자 정보를 나타내는 인터페이스와 타입을 작성하세요. 사용자 정보는 다음과 같은 구조를 가집니다:
 interface UserInterface {
